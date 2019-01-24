@@ -1,0 +1,6 @@
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\Exemple de fichier\Exemple de fichier\bin\Debug\Exemple de fichier.exe.config
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\Exemple de fichier\Exemple de fichier\bin\Debug\Exemple de fichier.exe
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\Exemple de fichier\Exemple de fichier\bin\Debug\Exemple de fichier.pdb
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\Exemple de fichier\Exemple de fichier\obj\Debug\Exemple de fichier.csprojResolveAssemblyReference.cache
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\Exemple de fichier\Exemple de fichier\obj\Debug\Exemple de fichier.exe
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\Exemple de fichier\Exemple de fichier\obj\Debug\Exemple de fichier.pdb

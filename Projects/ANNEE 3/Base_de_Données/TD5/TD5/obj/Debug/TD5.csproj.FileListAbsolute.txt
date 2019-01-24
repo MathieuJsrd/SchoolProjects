@@ -1,0 +1,7 @@
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Base_de_Données\TD5\TD5\bin\Debug\TD5.exe.config
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Base_de_Données\TD5\TD5\bin\Debug\TD5.exe
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Base_de_Données\TD5\TD5\bin\Debug\TD5.pdb
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Base_de_Données\TD5\TD5\bin\Debug\MySql.Data.dll
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Base_de_Données\TD5\TD5\obj\Debug\TD5.csprojResolveAssemblyReference.cache
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Base_de_Données\TD5\TD5\obj\Debug\TD5.exe
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Base_de_Données\TD5\TD5\obj\Debug\TD5.pdb

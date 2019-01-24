@@ -1,0 +1,6 @@
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\Paques\Paques\bin\Debug\Paques.exe.config
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\Paques\Paques\bin\Debug\Paques.exe
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\Paques\Paques\bin\Debug\Paques.pdb
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\Paques\Paques\obj\Debug\Paques.csprojResolveAssemblyReference.cache
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\Paques\Paques\obj\Debug\Paques.exe
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\Paques\Paques\obj\Debug\Paques.pdb

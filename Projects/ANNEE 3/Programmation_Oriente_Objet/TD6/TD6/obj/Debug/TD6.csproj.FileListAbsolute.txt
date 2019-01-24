@@ -1,0 +1,6 @@
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD6\TD6\bin\Debug\TD6.exe.config
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD6\TD6\bin\Debug\TD6.exe
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD6\TD6\bin\Debug\TD6.pdb
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD6\TD6\obj\Debug\TD6.csprojResolveAssemblyReference.cache
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD6\TD6\obj\Debug\TD6.exe
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD6\TD6\obj\Debug\TD6.pdb

@@ -1,0 +1,14 @@
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD_xaml\CarreJaune\CarreJaune\bin\Debug\CarreJaune.exe.config
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD_xaml\CarreJaune\CarreJaune\bin\Debug\CarreJaune.exe
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD_xaml\CarreJaune\CarreJaune\bin\Debug\CarreJaune.pdb
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD_xaml\CarreJaune\CarreJaune\obj\Debug\CarreJaune.csprojResolveAssemblyReference.cache
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD_xaml\CarreJaune\CarreJaune\obj\Debug\MainWindow.g.cs
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD_xaml\CarreJaune\CarreJaune\obj\Debug\App.g.cs
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD_xaml\CarreJaune\CarreJaune\obj\Debug\CarreJaune_MarkupCompile.cache
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD_xaml\CarreJaune\CarreJaune\obj\Debug\CarreJaune_MarkupCompile.lref
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD_xaml\CarreJaune\CarreJaune\obj\Debug\MainWindow.baml
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD_xaml\CarreJaune\CarreJaune\obj\Debug\CarreJaune.g.resources
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD_xaml\CarreJaune\CarreJaune\obj\Debug\CarreJaune.Properties.Resources.resources
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD_xaml\CarreJaune\CarreJaune\obj\Debug\CarreJaune.csproj.GenerateResource.Cache
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD_xaml\CarreJaune\CarreJaune\obj\Debug\CarreJaune.exe
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD_xaml\CarreJaune\CarreJaune\obj\Debug\CarreJaune.pdb

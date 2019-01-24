@@ -1,0 +1,15 @@
+{
+	"chat": {
+		"nom": "Lellou",
+		"race": "siamois",
+		"sexe": "F",
+		"exposition": {
+			"lieu": "orleans",
+			"annee": 1997,
+			"prix": "excellent"
+		},
+		"proprietaire": {
+			"nom": "Jules"
+		}
+	}
+}

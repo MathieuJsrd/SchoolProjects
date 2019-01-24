@@ -1,0 +1,8 @@
+c:\users\mathieu\documents\visual studio 2015\Projects\demoDialogue\demoDialogue\bin\Debug\demoDialogue.exe.config
+c:\users\mathieu\documents\visual studio 2015\Projects\demoDialogue\demoDialogue\bin\Debug\demoDialogue.exe
+c:\users\mathieu\documents\visual studio 2015\Projects\demoDialogue\demoDialogue\bin\Debug\demoDialogue.pdb
+c:\users\mathieu\documents\visual studio 2015\Projects\demoDialogue\demoDialogue\obj\Debug\demoDialogue.exe
+c:\users\mathieu\documents\visual studio 2015\Projects\demoDialogue\demoDialogue\obj\Debug\demoDialogue.pdb
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\Projects PC 1\demoDialogue\demoDialogue\bin\Debug\demoDialogue.exe.config
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\Projects PC 1\demoDialogue\demoDialogue\obj\Debug\demoDialogue.exe
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\Projects PC 1\demoDialogue\demoDialogue\obj\Debug\demoDialogue.pdb

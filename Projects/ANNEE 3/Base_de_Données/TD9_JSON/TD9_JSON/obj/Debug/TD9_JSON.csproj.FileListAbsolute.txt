@@ -1,0 +1,8 @@
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Base_de_Données\TD9_JSON\TD9_JSON\bin\Debug\TD9_JSON.exe.config
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Base_de_Données\TD9_JSON\TD9_JSON\obj\Debug\TD9_JSON.csprojResolveAssemblyReference.cache
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Base_de_Données\TD9_JSON\TD9_JSON\bin\Debug\TD9_JSON.exe
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Base_de_Données\TD9_JSON\TD9_JSON\bin\Debug\TD9_JSON.pdb
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Base_de_Données\TD9_JSON\TD9_JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Base_de_Données\TD9_JSON\TD9_JSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Base_de_Données\TD9_JSON\TD9_JSON\obj\Debug\TD9_JSON.exe
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Base_de_Données\TD9_JSON\TD9_JSON\obj\Debug\TD9_JSON.pdb

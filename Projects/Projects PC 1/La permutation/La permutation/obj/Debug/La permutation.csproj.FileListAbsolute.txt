@@ -1,0 +1,6 @@
+c:\users\mathieu\documents\visual studio 2015\Projects\La permutation\La permutation\bin\Debug\La permutation.exe.config
+c:\users\mathieu\documents\visual studio 2015\Projects\La permutation\La permutation\bin\Debug\La permutation.exe
+c:\users\mathieu\documents\visual studio 2015\Projects\La permutation\La permutation\bin\Debug\La permutation.pdb
+c:\users\mathieu\documents\visual studio 2015\Projects\La permutation\La permutation\obj\Debug\La permutation.csprojResolveAssemblyReference.cache
+c:\users\mathieu\documents\visual studio 2015\Projects\La permutation\La permutation\obj\Debug\La permutation.exe
+c:\users\mathieu\documents\visual studio 2015\Projects\La permutation\La permutation\obj\Debug\La permutation.pdb

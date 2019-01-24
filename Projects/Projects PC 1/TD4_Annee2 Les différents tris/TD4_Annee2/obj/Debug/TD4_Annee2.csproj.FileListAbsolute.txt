@@ -1,0 +1,12 @@
+c:\users\mathieu\documents\visual studio 2015\Projects\TD4_Annee2\TD4_Annee2\bin\Debug\TD4_Annee2.exe.config
+c:\users\mathieu\documents\visual studio 2015\Projects\TD4_Annee2\TD4_Annee2\obj\Debug\TD4_Annee2.csprojResolveAssemblyReference.cache
+c:\users\mathieu\documents\visual studio 2015\Projects\TD4_Annee2\TD4_Annee2\bin\Debug\TD4_Annee2.exe
+c:\users\mathieu\documents\visual studio 2015\Projects\TD4_Annee2\TD4_Annee2\bin\Debug\TD4_Annee2.pdb
+c:\users\mathieu\documents\visual studio 2015\Projects\TD4_Annee2\TD4_Annee2\obj\Debug\TD4_Annee2.exe
+c:\users\mathieu\documents\visual studio 2015\Projects\TD4_Annee2\TD4_Annee2\obj\Debug\TD4_Annee2.pdb
+C:\Users\mathieu\Documents\Visual Studio 2015\Projects\TD4_Annee2 Les différents tris\TD4_Annee2\bin\Debug\TD4_Annee2.exe.config
+C:\Users\mathieu\Documents\Visual Studio 2015\Projects\TD4_Annee2 Les différents tris\TD4_Annee2\obj\Debug\TD4_Annee2.exe
+C:\Users\mathieu\Documents\Visual Studio 2015\Projects\TD4_Annee2 Les différents tris\TD4_Annee2\obj\Debug\TD4_Annee2.pdb
+C:\Users\mathieu\Documents\Visual Studio 2015\Projects\TD4_Annee2 Les différents tris\TD4_Annee2\obj\Debug\TD4_Annee2.csprojResolveAssemblyReference.cache
+C:\Users\mathieu\Documents\Visual Studio 2015\Projects\TD4_Annee2 Les différents tris\TD4_Annee2\bin\Debug\TD4_Annee2.exe
+C:\Users\mathieu\Documents\Visual Studio 2015\Projects\TD4_Annee2 Les différents tris\TD4_Annee2\bin\Debug\TD4_Annee2.pdb

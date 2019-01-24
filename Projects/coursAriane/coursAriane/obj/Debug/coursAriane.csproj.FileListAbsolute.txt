@@ -1,0 +1,6 @@
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\coursAriane\coursAriane\bin\Debug\coursAriane.exe.config
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\coursAriane\coursAriane\bin\Debug\coursAriane.exe
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\coursAriane\coursAriane\bin\Debug\coursAriane.pdb
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\coursAriane\coursAriane\obj\Debug\coursAriane.csprojResolveAssemblyReference.cache
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\coursAriane\coursAriane\obj\Debug\coursAriane.exe
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\coursAriane\coursAriane\obj\Debug\coursAriane.pdb

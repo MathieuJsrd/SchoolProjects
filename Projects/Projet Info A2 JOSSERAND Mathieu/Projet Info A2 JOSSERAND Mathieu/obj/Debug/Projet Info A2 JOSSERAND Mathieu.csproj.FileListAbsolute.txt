@@ -1,0 +1,6 @@
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\Projet Info A2 JOSSERAND Mathieu\Projet Info A2 JOSSERAND Mathieu\bin\Debug\Projet Info A2 JOSSERAND Mathieu.exe.config
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\Projet Info A2 JOSSERAND Mathieu\Projet Info A2 JOSSERAND Mathieu\obj\Debug\Projet Info A2 JOSSERAND Mathieu.csprojResolveAssemblyReference.cache
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\Projet Info A2 JOSSERAND Mathieu\Projet Info A2 JOSSERAND Mathieu\bin\Debug\Projet Info A2 JOSSERAND Mathieu.exe
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\Projet Info A2 JOSSERAND Mathieu\Projet Info A2 JOSSERAND Mathieu\bin\Debug\Projet Info A2 JOSSERAND Mathieu.pdb
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\Projet Info A2 JOSSERAND Mathieu\Projet Info A2 JOSSERAND Mathieu\obj\Debug\Projet Info A2 JOSSERAND Mathieu.exe
+c:\users\mathieu utilisateur\documents\visual studio 2015\Projects\Projet Info A2 JOSSERAND Mathieu\Projet Info A2 JOSSERAND Mathieu\obj\Debug\Projet Info A2 JOSSERAND Mathieu.pdb

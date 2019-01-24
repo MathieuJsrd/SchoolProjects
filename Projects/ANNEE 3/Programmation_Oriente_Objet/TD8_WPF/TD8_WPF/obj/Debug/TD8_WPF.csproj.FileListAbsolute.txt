@@ -1,0 +1,14 @@
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD8_WPF\TD8_WPF\bin\Debug\TD8_WPF.exe.config
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD8_WPF\TD8_WPF\bin\Debug\TD8_WPF.exe
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD8_WPF\TD8_WPF\bin\Debug\TD8_WPF.pdb
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD8_WPF\TD8_WPF\obj\Debug\TD8_WPF.csprojResolveAssemblyReference.cache
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD8_WPF\TD8_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD8_WPF\TD8_WPF\obj\Debug\App.g.cs
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD8_WPF\TD8_WPF\obj\Debug\TD8_WPF_MarkupCompile.cache
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD8_WPF\TD8_WPF\obj\Debug\TD8_WPF_MarkupCompile.lref
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD8_WPF\TD8_WPF\obj\Debug\MainWindow.baml
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD8_WPF\TD8_WPF\obj\Debug\TD8_WPF.g.resources
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD8_WPF\TD8_WPF\obj\Debug\TD8_WPF.Properties.Resources.resources
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD8_WPF\TD8_WPF\obj\Debug\TD8_WPF.csproj.GenerateResource.Cache
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD8_WPF\TD8_WPF\obj\Debug\TD8_WPF.exe
+C:\Users\Mathieu utilisateur\Documents\Visual Studio 2015\Projects\ANNEE 3\Programmation_Oriente_Objet\TD8_WPF\TD8_WPF\obj\Debug\TD8_WPF.pdb

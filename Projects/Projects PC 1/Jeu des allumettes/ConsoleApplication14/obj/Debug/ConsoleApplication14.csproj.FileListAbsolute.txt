@@ -1,0 +1,6 @@
+c:\users\mathieu\documents\visual studio 2015\Projects\Jeu des allumettes\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe.config
+C:\Users\mathieu\documents\visual studio 2015\Projects\Jeu des allumettes\ConsoleApplication14\obj\Debug\ConsoleApplication14.csprojResolveAssemblyReference.cache
+C:\Users\mathieu\documents\visual studio 2015\Projects\Jeu des allumettes\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe
+C:\Users\mathieu\documents\visual studio 2015\Projects\Jeu des allumettes\ConsoleApplication14\bin\Debug\ConsoleApplication14.pdb
+C:\Users\mathieu\documents\visual studio 2015\Projects\Jeu des allumettes\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
+C:\Users\mathieu\documents\visual studio 2015\Projects\Jeu des allumettes\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb

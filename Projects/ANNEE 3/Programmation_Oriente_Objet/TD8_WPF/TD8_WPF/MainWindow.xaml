@@ -1,0 +1,24 @@
+﻿<Window x:Class="TD8_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TD8_WPF"
+        mc:Ignorable="d"
+        Title="MaPremiereFenetre" Height="200" Width="300">
+    <!--<WrapPanel Name= "Pannels" Background="Azure">
+        <TextBox Name="TextBox1" Width="80" Height="25" Text="Hello Word" Margin="10,10,0,0"/>
+        <Button Name="Button1" Width="100" Height="25" Content="Cliquez" Margin="30,10,0,0" Click="Button1_Click"/>
+    </WrapPanel>-->
+
+    <StackPanel Name="pannels" Orientation="Horizontal">
+        <TextBox Name="TextBox2" Width="80" Height="25"></TextBox>
+        <StackPanel Name="Pannel2" Width="75">
+            <Button Name="B1" Height="25" Content="==&gt;" Click="B1_Click" Margin="0,5,0,0"/>
+            <Button Name="B2" Height="25" Content="&lt;==" Margin="0,15,0,0" Click="B2_Click"/>
+        </StackPanel>
+        <TextBox Name="Text2" Width="80" Height="21"/>
+
+
+    </StackPanel>
+</Window>

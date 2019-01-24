@@ -1,0 +1,15 @@
+﻿<Window x:Class="CarreJaune.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CarreJaune"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <DockPanel LastChildFill="True">
+        <Button Content="Bougez"  DockPanel.Dock="Right" Margin="430,5,5,270" Width="66" Click="ClickBouger" ClickMode="Press"/>
+        <Canvas  Name="CanvasPere" Background="Yellow" Margin="10,10,10,10" Width="420">
+            <Canvas x:Name="CanvasFils" Background="Red" Width="40" Height="40" Canvas.Top="249"/>
+        </Canvas>
+    </DockPanel>
+</Window>
